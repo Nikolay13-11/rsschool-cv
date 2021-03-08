@@ -1,4 +1,3 @@
-init: start
 # ***Mikalai Atroshka*** #
 ---------
 #### *Adress:* 76 Panchenko str, apr 108, Minsk,220059, Belarus ####
