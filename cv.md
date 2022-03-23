@@ -15,8 +15,8 @@
 --------
 
 **Qualifications**
-+
-+
++ *November 2021 - February 2022* THEROLLING SCOPES SCHOOL - Node JS.
++ *August 2021 – September 2021* THEROLLING SCOPES SCHOOL - Angular.
 + *January 2021 - July 2021* THEROLLING SCOPES SCHOOL - JavaScript/Front-End.
 + *March 2018* Participation in the Light + Building 2018 (Frankfurt am Main, Germany)
 + *November 2018* CA Training Seminar Yamaha (Minsk, Belarus)
@@ -26,7 +26,7 @@
 -----
 
 **Work Experience**
-+ *July 2017 – now* Working as an automation engineer at Modern city, Minsk, Belarus. Working with      home automation systems (KNX, Modbus, Dali), with BMS system (solutions by Schneider Electric), with CCTV and networking systems, with AV systems (Yamaha, Extron etc.)
++ *July 2017 – December 2021* Working as an automation engineer at Modern city, Minsk, Belarus. Working with      home automation systems (KNX, Modbus, Dali), with BMS system (solutions by Schneider Electric), with CCTV and networking systems, with AV systems (Yamaha, Extron etc.)
 + *August 2013 – May 2017* Worked as an engineer at Allvision, Minsk, Belarus. Working with home automation systems (HDL Bus Pro), with CCTV and networking systems, with AV systems
 + *May 2011 – August 2013*|Worked as an engineer at cinema theatre «Belarus», Minsk, Belarus. Work with cinema theatre systems (such as lighting, ventilation, climate etc.) and maintenance it. Demonstration of films.)
 ------
