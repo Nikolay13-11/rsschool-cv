@@ -1,0 +1,20 @@
+.wrapper {
+    width: 1280px;
+    margin: 0 auto;
+}
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+img {
+    width: 250px;
+    height: 300px;
+}
+
+h1 {
+    font-size: xx-large;
+    color: royalblue;
+}
+
